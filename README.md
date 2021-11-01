@@ -10,3 +10,9 @@ I acquire domain knowledge by Maureen C. Bottrell (2009) "Forensic Glass Compari
 The data is downloaded by https://archive.ics.uci.edu/ml/datasets/glass+identification
 
 The task is to predict the right class of the glass fragments
+
+![alt text](https://raw.githubusercontent.com/RiSar16/Project-Python-R-FBI-data/main/multivariate-statistics.jpg)
+![alt text](https://raw.githubusercontent.com/RiSar16/Project-Python-R-FBI-data/main/Python-distribution-chemical%20elements.png)
+![alt text](https://raw.githubusercontent.com/RiSar16/Project-Python-R-FBI-data/main/R-correlations-highest-lowest.png)
+![alt text](https://raw.githubusercontent.com/RiSar16/Project-Python-R-FBI-data/main/Python-correlations.png)
+![alt text](https://raw.githubusercontent.com/RiSar16/Project-Python-R-FBI-data/main/R-correlations.png)
