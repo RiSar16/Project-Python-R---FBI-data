@@ -8,13 +8,15 @@ The chemical composition of a glass contributes in the discrimination of glass f
 I acquire domain knowledge from Koons and Buscaglia (2002) and Bottrell (2009) to understand better what the dataset contains.
 
 
-References:
+## References:
 
 Koons, R. D. and Buscaglia, J. Interpretation of glass composition measurements: The effects of match criteria on discrimination capability, Journal of Forensic Sciences (2002) 47:505–512.
 
 Johnson, R. A., & Wichern, D. W. (2014). Applied multivariate statistical analysis (Pearson new international ed.). Pearson.
 
 Maureen C. Bottrell, Forensic Glass Comparison: Background Information Used in Data Interpretation, https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/april2009/review.
+
+## Data:
 
 The data is downloaded by https://archive.ics.uci.edu/ml/datasets/glass+identification
 
